@@ -1,5 +1,4 @@
 # Palette-Studio
-# Palette Studio
 
 A web tool that helps designers and developers turn a set of colors into an organized, accessible palette with ready-to-use code.
 
